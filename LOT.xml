@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+
+<PropertyList>
+
+  <sim>
+    <model>
+      <livery>
+        <name type="string">LOT Polish Airlines</name>
+        <texture>Liveries/LOT-livery.png</texture>
+      </livery>
+      <lights>
+        <texture>Liveries/UTA-lights.png</texture>
+      </lights>
+    </model>
+  </sim>
+
+</PropertyList>
+
